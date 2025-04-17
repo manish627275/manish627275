@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Machine Learning & Deep Learning**
 - 🌱 I’m diving into the world of **Generative AI**
 - 💬 Ask me about **Python, ML, and Deep Learning**
-- 📫 Reach me at: **manishsharma.cse7@**
+- 📫 Reach me at: **manishsharma.cse7@gmail.com**
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/manish-sharma-cs)
 
 ---
